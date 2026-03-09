@@ -59,12 +59,13 @@
 </div>
 
 ###
+<p align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ohanadev/ohanadev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ohanadev/ohanadev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ohanadev/ohanadev/output/pacman-contribution-graph.svg">
-</picture>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=isabelaohanadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelaohanadev&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</p>
 
 ###
 
