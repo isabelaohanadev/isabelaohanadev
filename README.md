@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">💻 Technology student passionate about programming and software engineering.  <br><br>🚀 Always learning, building projects, and exploring new ideas in the world of technology.<br><br>🎓 Technology student | Universidade Christus</p>
+<p align="left">💻 Technology student passionate about programming and software engineering.  <br><br>🚀 Always learning, building projects, and exploring new ideas in the world of technology.<br><br>🎓 Análise e Desenvolvimento de Sistemas | Universidade Christus</p>
 
 ###
 
