@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">👋 Hello, I'm Isabela Ohana</h3>
+<h3 align="center">👋 Hello, I'm Isabela Ohana!</h3>
 
 ###
 
