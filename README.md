@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/1200x/41/be/71/41be719d9ba7bd8b0a2730c30b32b43d.jpg" />
+  <img height="200" src="./banner.png" />
 </div>
 
 ###
