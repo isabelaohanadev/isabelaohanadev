@@ -2,20 +2,19 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
 
+
 ###
 
-<h3 align="center">👋 Hello, I'm Isabela Ohana!</h3>
-
 <div align="center">
-  <a href="https://github.com/isabelaohanaponcetech" target="_blank">
-    <img src="https://img.shields.io/badge/Meu%20GitHub%20Corporativo%20%7C%20Ponce%20Tech-0052CC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Corporativo Ponce Tech" />
-  </a>
+  <img height="500" src="./banner.png" />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="./banner.png" />
+  <a href="https://github.com/isabelaohanaponcetech" target="_blank">
+    <img src="https://img.shields.io/badge/Meu%20GitHub%20Corporativo%20%7C%20Ponce%20Tech-0052CC?style=for-the-badge&logo=github&logoColor=white" alt="My Corporate | GitHub Ponce Tech" />
+  </a>
 </div>
 
 ###
